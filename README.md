@@ -3,8 +3,7 @@
 Site pessoal desenvolvido para apresentar minha jornada, projetos e evolução na área de desenvolvimento web.
 
 ## 🔗 Acesse o projeto
-[Clique aqui para visitar o portfólio](https://joseiuri97.github.io/porfolio)
-
+[Clique aqui para visitar o portfólio](https://joseiuri97.github.io/portfolio)
 ## ✨ Seções
 - Sobre mim
 - Habilidades
