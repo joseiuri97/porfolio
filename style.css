@@ -151,11 +151,13 @@ section h2 {
   line-height: 1;
   margin-bottom: 16px;
 }
-.skill-card .devicon-github-original {
-  color: var(--text);
+.skill-card .devicon-github-original,
+.skill-card .devicon-github-original::before {
+  color: var(--text) !important;
 }
-.skill-card .devicon-linux-plain {
-  color: var(--text);
+.skill-card .devicon-linux-plain,
+.skill-card .devicon-linux-plain::before {
+  color: var(--text) !important;
 }
 .skill-card h3 {
   font-family: 'Syne', sans-serif;
